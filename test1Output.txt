@@ -1,0 +1,117 @@
+there are 6 questions
+default grade: 0
+maximum grade: 100
+dificulty: default
+#1 why did they decide not to cut Red down?
+a. The tree cutters were too lazy
+b. The tree talks
+c. The tree was important to Francesca's family
+d. Maeve loves life
+correct answer(type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d.)
+
+#2 True/False: Red got cut down
+a. True
+b. False
+correct answer(type 'A' for a. Type 'B' for b.)b
+correct, +1 points
+#3 Which one best discribes bongo
+a. Optimistic
+b. A Minecrafter
+c. Pesimistic
+correct answer(type 'A' for a. Type 'B' for b. Type 'C' for c.)
+
+#4 Red is a wishtree who receives many wishes daily, especially on wishing day. When is wishing day?
+a. May 1st
+b. May 31st
+c. Friday
+d. June 1st
+correct answer(type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d.)
+
+#5 What is red's job? Why is red's name red?
+a. Red is a bird who is very friendly, she is a cardinal and that is where she gets her name
+b. Red is a farmer, her name came from a tractor brand
+c. Red is the boy that lives in the blue house, and he's named after the color of his hair
+d. Red is a wishtree, her name is also her color in fall
+correct answer(type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)
+
+#6 Who is in the story?
+a. Red, Bongo, Samar, Stephen, Maeve, Francesca
+b. Dr. Ferullo, Been, Soop, His stuff, Minecraft
+c. FreshBakedBread, RosePetal, Harold, Squibbles
+d. You, You, You
+e. B, C, D are correct answers
+f. A, C are correct answers
+g. A, C, D are correct answers
+correct answer(type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d. Type 'E' for e. Type 'D' for d. Type 'E' for e. Type 'F' for f. Type 'G' for g.)
+
+#7 Which best describes Red?
+a. Optimistic
+b. Minecrafter
+c. Pesimistic
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c.)
+
+#8 What animal's name is HariySpider?
+a. a spider
+b. an opossum
+c. a racoon
+d. a squirel
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d.)
+
+#9 What was the relationship between Amadora and Maeve?
+a. Maeve was the mom
+b. Maeve was the dad
+c. Maeve was the daughter
+d. Maeve was the son
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)
+
+#10 What was the relationship between Ama and Francesca?
+a. They were neighbors
+b. They were frenimies
+c. Ama was Francesca's great grandma
+d. They were best friends
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)
+
+#11 What word/phrase was written on the trunk of the tree?
+a. Maeve loves Red xD
+b. Stay
+c. Leave
+d. Hope
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)
+
+#12 What were the animals named after?
+a. Smells they enjoyed
+b. Things they feared
+c. Common names
+d. All of the above
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)
+
+#13 What things were placed in the hollows?
+a. A loaf of bread
+b. Letters
+c. A baby
+d. All of the above
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)
+
+#14 What was Maeve's wish?
+a. To get an invisible robot that did homework
+b. For a true love
+c. To never get the tree cut down
+d. To go to the bathroom
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)
+
+#15 What was Samar's wish?
+a. To get an invisible robot that did homework
+b. For someone to love
+c. All of the above
+d. None of the above
+correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)
+
+#16 VOCAB
+a. notoriously     1. odd, puzzled
+b. boisterously    2. to injure severely
+c. mangled         3. somebody or something well known for a bad thing
+d. inquisitive     4. to pluck
+e. twitching       5. person eager for knowledge
+f. quizzical       6. something noisy
+correct answer(Enter the numbers for the definitions of a,b,c,d,e and f in order separated by commas.)
+
