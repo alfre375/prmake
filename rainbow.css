@@ -9,3 +9,7 @@
 .default {
     position: initial;
 }
+
+.newChap {
+    font: arial;
+}
