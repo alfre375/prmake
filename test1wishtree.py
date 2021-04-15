@@ -300,7 +300,7 @@ if difficulty == "nonSillyBlookie":
     #
     res = input("correct answer(Type 'A' for a. Type 'B' for b. Type 'C' for c. Type 'D' for d)")
     #
-    if res == "D" or res == "d":
+    if res == "C" or res == "c":
         print("correct, +1 points")
         grade = grade+1
     else:
