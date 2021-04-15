@@ -1,5 +1,6 @@
 there are 6 questions
 default grade: 0
+Name: 
 maximum grade: 100
 dificulty: default
 #1 why did they decide not to cut Red down?
