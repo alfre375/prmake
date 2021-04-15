@@ -2,7 +2,7 @@ import webbrowser
 
 print("there are 6 questions")
 grade = int(input("default grade: "))
-
+name = input("Name: ")
 maxGrade = int(input("maximum grade: "))
 
 def p(txt):
