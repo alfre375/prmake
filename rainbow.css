@@ -12,4 +12,14 @@
 
 .newChap {
     font: arial;
+    font-size: 3cm;
+    font-weight: 100;
+    align-content: center;
+}
+
+.newChapNumb {
+    font: arial;
+    font-size: 2.5cm;
+    font-weight: 100;
+    align-content: center;
 }
